@@ -27,11 +27,11 @@ module.exports = {
 				trainingPoints: 4,
 				chance: 12
 			},
-      {
-        name: "30 Coins",
-        coins: 30,
-        chance: 27
-      }
+     			{
+  			        name: "30 Coins",
+   			        coins: 30,
+  			        chance: 27
+			}
 		]
 	}
 };
