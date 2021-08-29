@@ -1,7 +1,7 @@
 module.exports = {
   // BOT IMPORTANT
   Bot: {
-    Token: "ODUxMTY4MzQ1ODUxMDM1Nzcw.YL0WSw.iaOkUjiWPRBl23VzXOB4BgdWYtg",
+    Token: "",
     Prefix: "?",
   },
 
