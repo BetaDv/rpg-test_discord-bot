@@ -1,0 +1,17 @@
+{
+  "name": "beta-rg",
+  "description": "RPG like Discord Bot. Just for Fun!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "BetaDv",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3"
+  }
+}
