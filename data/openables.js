@@ -27,7 +27,12 @@ module.exports = {
 				trainingPoints: 4,
 				chance: 12
 			},
-     			{
+			{
+			        name: "Old Leather Helmet",
+				protectionPoints: { head: 2 },
+				chance: 9
+			},
+      			{
   			        name: "30 Coins",
    			        coins: 30,
   			        chance: 27
